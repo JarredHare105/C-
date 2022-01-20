@@ -1,0 +1,16 @@
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\bin\Debug\net5.0\CSPG p5.exe
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\bin\Debug\net5.0\CSPG p5.deps.json
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\bin\Debug\net5.0\CSPG p5.runtimeconfig.json
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\bin\Debug\net5.0\CSPG p5.runtimeconfig.dev.json
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\bin\Debug\net5.0\CSPG p5.dll
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\bin\Debug\net5.0\ref\CSPG p5.dll
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\bin\Debug\net5.0\CSPG p5.pdb
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\CSPG p5.csproj.AssemblyReference.cache
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\CSPG p5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\CSPG p5.AssemblyInfoInputs.cache
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\CSPG p5.AssemblyInfo.cs
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\CSPG p5.csproj.CoreCompileInputs.cache
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\CSPG p5.dll
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\ref\CSPG p5.dll
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\CSPG p5.pdb
+C:\Users\jarre\Desktop\Coding\c#\CSPG p5\obj\Debug\net5.0\CSPG p5.genruntimeconfig.cache
