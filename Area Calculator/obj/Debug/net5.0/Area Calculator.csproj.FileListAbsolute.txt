@@ -1,0 +1,16 @@
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\bin\Debug\net5.0\Area Calculator.exe
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\bin\Debug\net5.0\Area Calculator.deps.json
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\bin\Debug\net5.0\Area Calculator.runtimeconfig.json
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\bin\Debug\net5.0\Area Calculator.runtimeconfig.dev.json
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\bin\Debug\net5.0\Area Calculator.dll
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\bin\Debug\net5.0\ref\Area Calculator.dll
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\bin\Debug\net5.0\Area Calculator.pdb
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\Area Calculator.csproj.AssemblyReference.cache
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\Area Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\Area Calculator.AssemblyInfoInputs.cache
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\Area Calculator.AssemblyInfo.cs
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\Area Calculator.dll
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\ref\Area Calculator.dll
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\Area Calculator.pdb
+C:\Users\jarre\Desktop\Coding\c#\CSPG p4\obj\Debug\net5.0\Area Calculator.genruntimeconfig.cache
